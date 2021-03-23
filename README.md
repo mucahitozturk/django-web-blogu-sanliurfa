@@ -2,7 +2,7 @@
 
 Bu web blogunu [Django Girls Şanlıurfa](https://djangogirls.org/sanliurfa/) organizatörlüğüm zamanında geliştirdim. 
 
-Benzer bir proje geliştirmek için bu [dokümantasyonu](https://tutorial.djangogirls.org/tr/index.html) inceleyebilirsiniz.
+> Benzer bir proje geliştirmek için bu [dokümantasyonu](https://tutorial.djangogirls.org/tr/index.html) inceleyebilirsiniz.
 
 ## Demo
 
